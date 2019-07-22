@@ -1,0 +1,28 @@
+body{
+    background: antiquewhite;
+}
+#image-1{
+    margin: 0 auto;
+    width: 100%;
+    display: block;
+}
+#image-2{
+    margin:0 auto;
+    height: 100%;
+    display: inherit;
+}
+.div-1{
+    width: 1170px;
+    margin: 0 auto;
+    background: white;
+}
+#article-1{
+    padding: 20px;
+}
+footer{
+    background: black;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 8px 0px;
+}
