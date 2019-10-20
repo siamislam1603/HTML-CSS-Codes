@@ -1,0 +1,35 @@
+body{
+    background:#EDF0F5;
+}
+body>h1{
+    color: #34305E;
+}
+div>div{
+    color: #777790;
+    font-weight: 900;
+    margin: 10px;
+    width: 8%;
+    display: inline-block;
+    text-align: right;
+}
+div{
+    margin: 10px;
+    width: 100%;
+}
+.lg-input{
+    width: 235px;
+    height: 30px;
+}
+#sendBtn{
+    background: #589E5C;
+    color: white;
+    margin-left: 10%;
+}
+.birthday{
+    height: 25px;
+}
+#csvBtn{
+    background: #34305E;
+    color: #EDF0F5;
+    margin-left: 10px;
+}
